@@ -29,3 +29,5 @@ composer.phar
 /config/params.php
 /config/db.php
 /config/console.php
+.htaccess
+/web/.htaccess
